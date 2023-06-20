@@ -1,0 +1,15 @@
+
+
+.contactItem {
+
+    margin: 0.3em;
+  }
+
+  .contactText {
+    
+    transition: background-color 0.3s;
+  }
+  
+.contactText:hover {
+    background-color: lightgray;
+  }
