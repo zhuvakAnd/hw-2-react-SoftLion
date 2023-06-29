@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hw-2-react-SoftLion/static/css/main.f7054bbf.css",
-    "main.js": "/hw-2-react-SoftLion/static/js/main.16d24272.js",
+    "main.js": "/hw-2-react-SoftLion/static/js/main.8c486717.js",
     "index.html": "/hw-2-react-SoftLion/index.html",
     "main.f7054bbf.css.map": "/hw-2-react-SoftLion/static/css/main.f7054bbf.css.map",
-    "main.16d24272.js.map": "/hw-2-react-SoftLion/static/js/main.16d24272.js.map"
+    "main.8c486717.js.map": "/hw-2-react-SoftLion/static/js/main.8c486717.js.map"
   },
   "entrypoints": [
     "static/css/main.f7054bbf.css",
-    "static/js/main.16d24272.js"
+    "static/js/main.8c486717.js"
   ]
 }
